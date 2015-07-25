@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Checkpoint</string>
+
+    <string name="title_section1">Check-in</string>
+    <string name="title_section2">Requerimentos</string>
+    <string name="title_section3">Verificar Área</string>
+
+    <string name="navigation_drawer_open">Abrir Painel de Navegação</string>
+    <string name="navigation_drawer_close">Abrir Painel de Navegação</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Área de Ação</string>
+</resources>
